@@ -1,0 +1,7 @@
+.Marquee{
+    height: 122px;
+}
+.Marquee>marquee{
+    font-size: 122px;
+    
+ }

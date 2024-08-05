@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    height: 90px;
+}
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+    height: 100%;
+
+}
+.header__wrapper{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.list li a{
+    text-decoration: none;
+    color: #000000;
+}
+.list li {
+    list-style: none;
+}
+.list{
+    display: flex;
+    gap: 0 30px;
+}
+.input{
+    width: 577px;
+    height: 48px;
+    border-radius: 62px;
+}
+    
